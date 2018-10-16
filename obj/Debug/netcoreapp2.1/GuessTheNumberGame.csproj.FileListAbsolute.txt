@@ -1,0 +1,11 @@
+/Users/michaelglucz/Documents/Work_in_Progress/CSharpApps/GuessTheNumberGame/GuessTheNumberGame/bin/Debug/netcoreapp2.1/GuessTheNumberGame.deps.json
+/Users/michaelglucz/Documents/Work_in_Progress/CSharpApps/GuessTheNumberGame/GuessTheNumberGame/bin/Debug/netcoreapp2.1/GuessTheNumberGame.runtimeconfig.json
+/Users/michaelglucz/Documents/Work_in_Progress/CSharpApps/GuessTheNumberGame/GuessTheNumberGame/bin/Debug/netcoreapp2.1/GuessTheNumberGame.runtimeconfig.dev.json
+/Users/michaelglucz/Documents/Work_in_Progress/CSharpApps/GuessTheNumberGame/GuessTheNumberGame/bin/Debug/netcoreapp2.1/GuessTheNumberGame.dll
+/Users/michaelglucz/Documents/Work_in_Progress/CSharpApps/GuessTheNumberGame/GuessTheNumberGame/bin/Debug/netcoreapp2.1/GuessTheNumberGame.pdb
+/Users/michaelglucz/Documents/Work_in_Progress/CSharpApps/GuessTheNumberGame/GuessTheNumberGame/obj/Debug/netcoreapp2.1/GuessTheNumberGame.csprojAssemblyReference.cache
+/Users/michaelglucz/Documents/Work_in_Progress/CSharpApps/GuessTheNumberGame/GuessTheNumberGame/obj/Debug/netcoreapp2.1/GuessTheNumberGame.csproj.CoreCompileInputs.cache
+/Users/michaelglucz/Documents/Work_in_Progress/CSharpApps/GuessTheNumberGame/GuessTheNumberGame/obj/Debug/netcoreapp2.1/GuessTheNumberGame.AssemblyInfoInputs.cache
+/Users/michaelglucz/Documents/Work_in_Progress/CSharpApps/GuessTheNumberGame/GuessTheNumberGame/obj/Debug/netcoreapp2.1/GuessTheNumberGame.AssemblyInfo.cs
+/Users/michaelglucz/Documents/Work_in_Progress/CSharpApps/GuessTheNumberGame/GuessTheNumberGame/obj/Debug/netcoreapp2.1/GuessTheNumberGame.dll
+/Users/michaelglucz/Documents/Work_in_Progress/CSharpApps/GuessTheNumberGame/GuessTheNumberGame/obj/Debug/netcoreapp2.1/GuessTheNumberGame.pdb
